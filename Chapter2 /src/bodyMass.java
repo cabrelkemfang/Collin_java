@@ -28,10 +28,10 @@ public class bodyMass {
 			inches = input.nextInt();
 
 			//converting and calculation of body mass index
-			//double weightInKilo = weight* 0.453592;
-			//double heightInMeters = (((feet * 12) + inches) * .254);
-			//double bmi = weightInKilo / Math.pow(heightInMeters, 2.0);
-			double bmi = (weight * 703) / Math.pow(inches, 2.0);
+			double weightInKilo = weight* 0.453592;
+			double heightInMeters = (((feet * 12) + inches) * .254);
+			double bmi = weightInKilo / Math.pow(heightInMeters, 2.0);
+			//double bmi = (weight * 703) / Math.pow(inches, 2.0);
 
 			//displaying output
 			System.out.println("The body mass is: "  +bmi);

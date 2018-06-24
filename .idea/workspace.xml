@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dac4795-875d-4304-9829-5eddf4536b5f" name="Default" comment="" />
+    <list default="true" id="2dac4795-875d-4304-9829-5eddf4536b5f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/mass/src/bodyMass.java" beforeDir="false" afterPath="$PROJECT_DIR$/mass/src/bodyMass.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/mass/src/bodyMass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="271">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,16 +178,15 @@
       <updated>1529780864655</updated>
       <workItem from="1529780867735" duration="159000" />
       <workItem from="1529788476903" duration="402000" />
-      <workItem from="1529789043844" duration="6126000" />
+      <workItem from="1529789043844" duration="7007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6687000" />
+    <option name="totallyTimeSpent" value="7568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="-4" width="1321" height="773" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -237,7 +238,7 @@
     <entry file="file://$PROJECT_DIR$/mass/src/bodyMass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
