@@ -1,4 +1,4 @@
-// HeartRates.java
+ // HeartRates.java
 // A Target-Heart-Rate Calculator
 // Java How to Program, 9th Ed. (Deitel) Page 101
 // Exercise 3.16
