@@ -12,9 +12,6 @@ This is so because using the current the formular of population growth
 where we have [currentPopulation + (growthrate * currentPopulation).
  */
 
-
-
-
 //import Scanner
 import java.util.Scanner;
 
