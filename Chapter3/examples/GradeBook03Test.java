@@ -2,8 +2,6 @@
 // Creating and manipulating a GradeBook03 object.
 // Page 82 
 //
-// Ray Santos
-// October 1, 2014
 
 import java.util.Scanner;
 

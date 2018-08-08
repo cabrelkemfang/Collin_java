@@ -1,10 +1,7 @@
 // Fig. 6.3: MaximumFinder.java
 // Programmer-declared method maximum with three double parameters
 //
-// Java How to Program, 9th Ed. (Deitel) Page 202
-//
-// Ray Santos
-// October 17, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 202
 
 import java.util.Scanner;
 

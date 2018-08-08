@@ -1,10 +1,8 @@
 // Fig. 6.10: MethodOverload.java
 // Overloaded method declarations
 //
-// Java How to Program, 9th Ed. (Deitel) Page 222
-//
-// Ray Santos
-// October 21, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 222
+
 
 public class MethodOverload
 {

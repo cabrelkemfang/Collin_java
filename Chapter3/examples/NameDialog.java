@@ -2,9 +2,6 @@
 // Basic input with a dialog box
 // Java How to Program, 9th Ed. (Deitel) Page 95
 //
-// Ray Santos
-// October 2, 2014
-
 import javax.swing.JOptionPane;
 
 public class NameDialog

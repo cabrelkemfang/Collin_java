@@ -1,10 +1,7 @@
 // Fig. 6.9: Scope.java
 // Scope class demonstrates field and local variable scopes.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 220
-//
-// Ray Santos
-// October 21, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 220
 
 public class Scope
 {

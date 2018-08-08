@@ -2,8 +2,7 @@
 // Class declaration with one method
 // Page 73
 //
-// Ray Santos
-// October 1, 2014
+
 
 public class GradeBook
 {

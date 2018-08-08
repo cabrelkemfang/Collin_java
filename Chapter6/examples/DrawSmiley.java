@@ -1,10 +1,7 @@
 // Fig. 6.11: DrawSmiley.java
 // Demonstrates filled shapes.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 225
-//
-// Ray Santos
-// October 21, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 225
 
 import java.awt.Color;
 import java.awt.Graphics;

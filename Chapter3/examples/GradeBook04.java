@@ -2,8 +2,6 @@
 // GradeBook04 class with a constructor to initialize the course name.
 // Page 85
 //
-// Ray Santos
-// October 1, 2014
 
 public class GradeBook04
 {

@@ -1,10 +1,7 @@
 // Fig. 5.18: LogicalOperators.java
 // Logical operators.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 177
-//
-// Ray Santos
-// October 13, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 177
 
 public class LogicalOperators
 {

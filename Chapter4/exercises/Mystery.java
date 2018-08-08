@@ -1,10 +1,9 @@
 // Exercise 4.16: Mystery.java
 // What does the following program print?
 //
-// Java How to Program, 9th Ed. (Deitel) Page 145
+// Java How to Program, 10th Ed. (Deitel) Page 145
 //
-// Ray Santos
-// October 7, 2014
+
 
 public class Mystery
 {
@@ -26,7 +25,7 @@ public class Mystery
    }
 }
 
-/* raysantos manual code walkthrough
+/*
 
 loop    y    x     total   output
 ----    ----------------   ------

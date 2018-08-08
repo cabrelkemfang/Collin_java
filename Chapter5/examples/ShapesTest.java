@@ -1,10 +1,7 @@
 // Fig. 5.27: ShapesTest.java
 // Test application that deploys class Shapes
 //
-// Java How to Program, 9th Ed. (Deitel) Page 185
-//
-// Ray Santos
-// October 13, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 185
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;

@@ -3,9 +3,6 @@
 // and methods to set and get its value
 // Page 80
 //
-// Ray Santos
-// October 1, 2014
-
 public class GradeBook03
 {
    private String courseName;

@@ -1,10 +1,7 @@
 // Fig. 5.10: GradeBookTest.java
 // Create GradeBook object, input grades and display grade report
 //
-// Java How to Program, 9th Ed. (Deitel) Page 169
-//
-// Ray Santos
-// October 12, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 169
 
 public class GradeBookTest
 {

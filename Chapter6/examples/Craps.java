@@ -1,10 +1,7 @@
 // Fig. 6.8: Craps.java
 // Craps class simulates the dice game craps.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 215
-//
-// Ray Santos
-// October 20, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 215
 
 import java.util.Random;
 

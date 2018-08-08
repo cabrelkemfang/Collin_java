@@ -2,8 +2,6 @@
 // Class declaration with one method that has a parameter
 // Page 77
 //
-// Ray Santos
-// October 1, 2014
 
 public class GradeBook02
 {

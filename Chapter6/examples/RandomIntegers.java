@@ -1,10 +1,7 @@
 // Fig. 6.6: RandomIntegers.java
 // Shifted and scaled random integers
 //
-// Java How to Program, 9th Ed. (Deitel) Page 211
-//
-// Ray Santos
-// October 18, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 211
 
 import java.util.Random;
 

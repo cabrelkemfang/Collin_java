@@ -2,10 +2,7 @@
 // Programmer-declared method maximum with three double parameters
 // using the Math.max() method.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 204
-//
-// Ray Santos
-// October 17, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 204
 
 import java.util.Scanner;
 

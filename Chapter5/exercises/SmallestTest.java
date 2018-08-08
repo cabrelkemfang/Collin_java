@@ -1,10 +1,7 @@
 // Exercise 5.11: SmallestTest.java
 // Test application for class Smallest
 //
-// Java How to Program, 9th Ed. (Deitel) Page 193
-//
-// Ray Santos
-// October 15, 2104
+// Java How to Program, 10th Ed. (Deitel) Page 193
 
 public class SmallestTest
 {

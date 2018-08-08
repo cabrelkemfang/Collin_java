@@ -1,10 +1,7 @@
 // Fig. 6.7: RollDie.java
 // Roll a six-sided die 6,000,000 times
 //
-// Java How to Program, 9th Ed. (Deitel) Page 212
-//
-// Ray Santos
-// October 19, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 212
 
 import java.util.Random;
 

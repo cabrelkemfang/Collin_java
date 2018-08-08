@@ -1,10 +1,7 @@
 // Fig. 5.1: WhileCounter.java
 // Counter-controlled repetition with the while repetition statement.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 152
-//
-// Ray Santos
-// October 9, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 152
 
 public class WhileCounter
 {

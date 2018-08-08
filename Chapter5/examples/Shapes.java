@@ -1,10 +1,7 @@
 // Fig. 5.26: Shapes.java
 // Demonstrates drawing different shapes.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 184
-//
-// Ray Santos
-// October 13, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 184
 
 import java.awt.Graphics;
 import javax.swing.JPanel;

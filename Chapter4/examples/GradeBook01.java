@@ -2,10 +2,8 @@
 // GradeBook01 class that solves class-average problem
 // using counter-controlled repetition.
 // 
-// Java How To Program, 9th Ed. (Deitel) Page 114
+// Java How To Program, 10th Ed. (Deitel) Page 114
 //
-// Ray Santos
-// October 5, 2014
 
 import java.util.Scanner;
 

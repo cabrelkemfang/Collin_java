@@ -1,10 +1,7 @@
 // Fig. 5.6: Interest.java
 // Compound-interest calculations with for.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 159
-//
-// Ray Santos
-// October 9, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 159
 
 public class Interest 
 {

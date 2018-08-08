@@ -3,8 +3,6 @@
 // time each GradeBook04 object is created.
 // Page 87 
 //
-// Ray Santos
-// October 1, 2014
 
 import java.util.Scanner;
 

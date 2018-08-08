@@ -1,9 +1,8 @@
 // Fig. 3.14: AccountTest.java
 // Inputting and outputting floating-point numbers with Account objects.
-// Java How to Program, 9th Ed. (Deitel) Page 90
+// Java How to Program, 10th Ed. (Deitel) Page 90
 //
-// Ray Santos
-// October 2, 2014
+
 
 import java.util.Scanner;
 

@@ -1,10 +1,9 @@
 // Fig. 3.13: Account.java
 // Account class with a constructor to validate and initialize
 // instance variable balance of type double.
-// Java How to Program, 9th Ed. (Deitel) Page 89
+// Java How to Program, 10th Ed. (Deitel) Page 89
 //
-// Ray Santos
-// October 2, 2014
+
 
 public class Account
 {

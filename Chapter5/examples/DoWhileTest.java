@@ -1,10 +1,7 @@
 // Fig. 5.7: DoWhileTest.java
 // do...while repetition statement
-//
-// Java How to Program, 9th Ed. (Deitel) Page 162
-//
-// Ray Santos
-// October 9, 2014
+
+// Java How to Program, 10th Ed. (Deitel) Page 162
 
 public class DoWhileTest
 {
