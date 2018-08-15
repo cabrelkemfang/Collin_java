@@ -1,10 +1,7 @@
 // Fig. 7.7: RollDie.java
 // Die-rolling program using arrays instead of switch
 //
-// Java How to Program, 9th Ed. (Deitel) Page 250
-//
-// Ray Santos
-// November 1, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 250
 
 import java.util.Random;
 

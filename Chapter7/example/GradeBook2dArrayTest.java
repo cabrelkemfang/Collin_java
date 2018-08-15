@@ -2,10 +2,8 @@
 // GradeBook2dArrayTest creates GradeBook2dArray object using a two-dimensional
 // array of grades, then invokes method processGrades to analyze them.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 276
-//
-// Ray Santos
-// November 3, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 276
+
 
 public class GradeBook2dArrayTest
 {

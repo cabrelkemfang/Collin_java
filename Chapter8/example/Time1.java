@@ -1,10 +1,8 @@
 // Fig. 8.1: Time1.java
 // Time1 class declaration maintains the time in 24-hour format.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 313
-//
-// Ray Santos
-// November 8, 2104
+// Java How to Program, 10th Ed. (Deitel) Page 313
+
 
 public class Time1
 {

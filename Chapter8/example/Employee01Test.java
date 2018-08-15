@@ -1,10 +1,8 @@
 // Fig. 8.13: Employee01Test.java
 // static member demonstration
 //
-// Java How to Program, 9th Ed. (Deitel) Page 337
-//
-// Ray Santos
-// November 23, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 337
+
 
 public class Employee01Test
 {

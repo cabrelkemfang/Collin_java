@@ -1,10 +1,8 @@
 // Fig. 7.21: InitArrayCommand.java
 // Initializing an array using command-line arguments.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 280
-//
-// Ray Santos
-// November 4, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 280
+
 
 public class InitArrayCommand
 {

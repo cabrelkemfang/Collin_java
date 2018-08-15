@@ -1,10 +1,8 @@
 // Fig. 7.9: Card.java
 // Card class represents a playing card.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 254
-//
-// Ray Santos
-// November 3, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 254
+
 
 public class Card
 {

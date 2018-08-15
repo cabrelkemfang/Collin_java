@@ -1,10 +1,8 @@
 // Fig. 8.8: Employee.java
 // Employee class with references to other objects.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 329
-//
-// Ray Santos
-// November 22, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 329
+
 
 public class Employee
 {

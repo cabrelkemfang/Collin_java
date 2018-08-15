@@ -1,10 +1,7 @@
 // Fig. 7.6: BarChart.java
 // Bar chart printing program.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 249
-//
-// Ray Santos
-// November 1, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 249
 
 public class BarChart
 {

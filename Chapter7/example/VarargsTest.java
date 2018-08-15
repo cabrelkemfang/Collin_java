@@ -1,10 +1,8 @@
 // Fig. 7.20: VarargsTest.java
 // Using variable-length argument lists.
 //
-// Java How to Program, 9t Ed. (Deitel) Page 278
-//
-// Ray Santos
-// November 4, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 278
+
 
 public class VarargsTest
 {

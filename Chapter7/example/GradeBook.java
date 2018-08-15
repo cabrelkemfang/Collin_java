@@ -1,10 +1,8 @@
 // Fig. 7.14: GradeBook.java
 // GradeBook class using an array to store test grades
 //
-// Java How to Program, 9th Ed. (Deitel) Page 263
-//
-// Ray Santos
-// November 3, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 263
+
 
 public class GradeBook
 {

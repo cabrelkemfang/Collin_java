@@ -1,10 +1,8 @@
 // Fig. 8.9: EmployeeTest.java
 // Composition demonstration
 //
-// Java How to Program, 9th Ed. (Deitel) Page 330
-//
-// Ray Santos
-// November 22, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 330
+
 
 public class EmployeeTest
 {

@@ -1,10 +1,8 @@
 // Fig. 8.6: Time2Test.java
 // Overloaded constructors used to initialize Time2 objects.
 //
-// Java How to Program, 9th Ed. (Deitel) Pagel 324
-//
-// Ray Santos
-// November 13, 2014
+// Java How to Program, 10th Ed. (Deitel) Pagel 324
+
 
 public class Time2Test
 {

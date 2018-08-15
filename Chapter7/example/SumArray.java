@@ -1,10 +1,8 @@
 // Fig. 7.5: SumArray.java
 // Computing the sum of the elements of an array.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 248
-//
-// Ray Santos
-// October 31, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 248
+
 
 public class SumArray
 {

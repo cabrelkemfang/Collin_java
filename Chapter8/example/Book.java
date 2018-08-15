@@ -2,10 +2,8 @@
 // Declaring an enum type with constructor and explicit instance fields
 // and accessors for these fields
 //
-// Java How to Program, 9th Ed. (Deitel) Page 331
-//
-// Ray Santos
-// November 22, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 331
+
 
 public enum Book
 {

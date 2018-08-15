@@ -1,10 +1,8 @@
 // Fig. 7.3: InitArray2.java
 // Initializing the elements of an array with an array initializer.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 246
-//
-// Ray Santos
-// October 30, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 246
+
 
 public class InitArray2
 {

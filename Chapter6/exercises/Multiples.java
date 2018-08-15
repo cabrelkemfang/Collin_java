@@ -8,10 +8,8 @@
 // (one pair at a time) and determines whether the second value in each pair
 // is a multiple of the first.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 236
-//
-// Ray Santos
-// October 22, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 236
+
 
 public class Multiples
 {

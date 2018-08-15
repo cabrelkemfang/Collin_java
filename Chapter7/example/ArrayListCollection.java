@@ -1,10 +1,7 @@
 // Fig. 7.24: ArrayListCollection.java
 // Generaic ArrayList<T> collection demonstration.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 285
-//
-// Ray Santos
-// November 5, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 285
 
 import java.util.ArrayList;
 

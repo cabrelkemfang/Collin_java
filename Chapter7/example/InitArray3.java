@@ -1,10 +1,8 @@
 // Fig. 7.4: InitArray3.java
 // Calculate the values to be placed into the elements of an array.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 246
-//
-// Ray Santos
-// October 30, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 246
+
 
 public class InitArray3
 {

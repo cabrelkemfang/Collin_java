@@ -1,10 +1,8 @@
 // Fig. 8.11: EnumTest.java
 // Testing enum type Book.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 332
-//
-// Ray Santos
-// November 22, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 332
+
 
 import java.util.EnumSet;
 
