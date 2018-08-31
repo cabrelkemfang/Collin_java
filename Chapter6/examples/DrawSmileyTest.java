@@ -1,10 +1,7 @@
 // Fig. 6.12: DrawSmileyTest.java
 // Test application that displays a smiley face.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 226
-//
-// Ray Santos
-// October 21, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 226
 
 import javax.swing.JFrame;
 

@@ -1,10 +1,8 @@
 // Fig. 7.26: DrawRainbowTest.java
 // Test application to display a rainbow.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 288
-//
-// Ray Santos
-// November 5, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 288
+
 
 import javax.swing.JFrame;
 

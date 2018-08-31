@@ -3,8 +3,7 @@
 //
 // Java How To Program, 9th Ed. (Deitel) Page 146
 //
-// Ray Santos
-// October 8, 2014
+
 
 public class GasTest
 {

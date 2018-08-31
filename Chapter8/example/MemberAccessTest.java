@@ -1,10 +1,8 @@
 // Fig. 8.3: MemberAccessTest.java
 // Private members of class Time1 are not accessible.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 317
-//
-// Ray Santos
-// November 9, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 317
+
 
 public class MemberAccessTest
 {

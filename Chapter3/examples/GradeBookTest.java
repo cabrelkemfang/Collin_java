@@ -2,9 +2,6 @@
 // Creating a GradeBook object and calling its displayMessage method.
 // Page 74
 //
-// Ray Santos
-// October 1, 2014
-
 public class GradeBookTest
 {
    public static void main( String[] args )

@@ -1,10 +1,9 @@
 // Fig 4.12: Analysis.java
 // Analysis of examination results using nested control statements.
 //
-// Java How To Program, 9th Ed. (Deitel) Page 128
+// Java How To Program, 10th Ed. (Deitel) Page 128
 //
-// Ray Santos
-// October 6, 2014
+
 
 import java.util.Scanner;
 

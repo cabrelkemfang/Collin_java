@@ -1,14 +1,12 @@
  // HeartRates.java
 // A Target-Heart-Rate Calculator
-// Java How to Program, 9th Ed. (Deitel) Page 101
+// Java How to Program, 10th Ed. (Deitel) Page 101
 // Exercise 3.16
 //
-// Ray Santos
-// October 3, 2014
 
 public class HeartRates
 {
-    private String firstName;
+    private String firstName;//instance variables
     private String lastName;
     private int age;
 

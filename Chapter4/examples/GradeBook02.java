@@ -2,10 +2,7 @@
 // GradeBook02 class that solves the class-average problem
 // using sentinel-controlled repetition.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 121
-//
-// Ray Santos
-// October 6, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 121
 
 import java.util.Scanner;
 

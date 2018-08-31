@@ -1,10 +1,8 @@
 // Fig. 4.15: Increment.java
 // Prefix increment and postfix increment operators
 //
-// Java How To Program, 9th Ed. (Deitel) Page 132
-//
-// Ray Santos
-// October 6, 2014
+// Java How To Program, 10th Ed. (Deitel) Page 132
+
 
 public class Increment
 {

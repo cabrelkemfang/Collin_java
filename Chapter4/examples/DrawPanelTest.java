@@ -1,10 +1,8 @@
 // Fig. 4.19: DrawPanelTest.java
 // Application to display a DrawPanel.
 //
-// Java How To Program, 9th Ed. (Deitel) Page 135
-//
-// Ray Santos
-// October 6, 2014
+// Java How To Program, 10th Ed. (Deitel) Page 135
+
 
 import javax.swing.JFrame;
 

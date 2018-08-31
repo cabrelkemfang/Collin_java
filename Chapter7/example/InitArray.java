@@ -1,10 +1,8 @@
 // Fig. 7.2: InitArray.java
 // Initializing the elements of an array to default values of zero.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 244
-//
-// Ray Santos
-// October 30, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 244
+
 
 public class InitArray
 {

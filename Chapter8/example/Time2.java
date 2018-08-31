@@ -1,10 +1,7 @@
 // Fig. 8.5: Time2.java
 // Time2 class declaration with overloaded constructors.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 320
-//
-// Ray Santos
-// November 12, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 320
 
 public class Time2
 {

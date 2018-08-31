@@ -1,10 +1,7 @@
 // Fig. 5.5: Sum.java
 // Summing integers with the for statement.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 158
-//
-// Ray Santos
-// October 9, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 158
 
 public class Sum
 {

@@ -1,10 +1,8 @@
 // Fig. 7.25: DrawRainbow.java
 // Demonstrates using colors in an array.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 287
-//
-// Ray Santos
-// November 5, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 287
+
 
 import java.awt.Color;
 import java.awt.Graphics;

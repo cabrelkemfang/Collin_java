@@ -1,10 +1,8 @@
 // Fig. 5.2: ForCounter.java
 // Counter-controlled repetition with the for repetition statement.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 154
-//
-// Ray Santos
-// October 9, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 154
+
 
 public class ForCounter
 {

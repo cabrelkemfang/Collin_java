@@ -2,10 +2,8 @@
 // Static variable used to maintain a count of the number
 // of Employee objects in memory.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 336
-//
-// Ray Santos
-// November 23, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 336
+
 
 public class Employee01
 {

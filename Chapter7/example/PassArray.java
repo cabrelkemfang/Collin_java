@@ -1,10 +1,8 @@
 // Fig. 7.13: PassArray.java
 // Passing arrays and individual array elements to methods.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 260
-//
-// Ray Santos
-// November 3, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 260
+
 
 public class PassArray
 {

@@ -1,10 +1,8 @@
 // Exercise 5.10: Printing.java
 // What does the following program do?
 //
-// Java How to Program, 9th Ed. (Deitel) Page 193
-//
-// Ray Santos
-// October 15, 2104
+// Java How to Program, 10th Ed. (Deitel) Page 193
+
 
 public class Printing
 {
@@ -20,7 +18,7 @@ public class Printing
    }
 }
 
-/* raysantos manual code walkthrough
+/*
 
 i    j    output
 -    -    ------

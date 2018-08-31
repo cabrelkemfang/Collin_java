@@ -1,10 +1,7 @@
 // Fig. 7.11: DeckOfCardsTest.java
 // Card shuffling and dealing.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 257
-//
-// Ray Santos
-// November 3, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 257
 
 public class DeckOfCardsTest
 {

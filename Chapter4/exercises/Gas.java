@@ -1,10 +1,8 @@
 // Exercise 4.17: Gas.java
 // Gas Mileage
 //
-// Java How To Program, 9th Ed. (Deitel) Page 146
+// Java How To Program, 10th Ed. (Deitel) Page 146
 //
-// Ray Santos
-// October 8, 2014
 //
 // Drivers are concerned with the mileage their automobiles get. One driver has
 // kept track of several trips by recording the miles driven and gallons used for

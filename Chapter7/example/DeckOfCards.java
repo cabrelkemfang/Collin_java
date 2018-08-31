@@ -1,10 +1,8 @@
 // Fig. 7.10: DeckOfCards.java
 // DeckOfCards class represents a deck of playing cards.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 255
-//
-// Ray Santos
-// November 3, 2014
+// Java How to Program, 10th Ed. (Deitel)
+
 
 import java.util.Random;
 

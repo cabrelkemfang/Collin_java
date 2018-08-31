@@ -1,10 +1,8 @@
 // Exercise 6.16: MultiplesTest.java
 // Test application uses class Multiples
 //
-// Java How to Program, 9th Ed. (Deitel) Page 236
-//
-// Ray Santos
-// October 22, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 236
+
 
 import java.util.Scanner;
 

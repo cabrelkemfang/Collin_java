@@ -1,10 +1,8 @@
 // Fig. 8.7: Date.java
 // Date class declaration.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 328
-//
-// Ray Santos
-// November 14,2014
+// Java How to Program, 10th Ed. (Deitel) Page 328
+
 
 public class Date
 {

@@ -2,10 +2,8 @@
 // GradeBookTest creates a GradeBook object using an array of grades,
 // then invokes method processGrades to analyze them.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 267
-//
-// Ray Santos
-// November 3, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 267
+
 
 public class GradeBookTest
 {

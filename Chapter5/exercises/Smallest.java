@@ -5,10 +5,7 @@
 // Assume that the first value read specifies the number of values
 // to input from the user.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 193
-//
-// Ray Santos
-// October 15, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 193
 
 import java.util.Scanner;
 

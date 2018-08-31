@@ -2,9 +2,6 @@
 // Creating a GradeBook object and pass a String to its displayMessage method.
 // Page 77
 //
-// Ray Santos
-// October 1, 2014
-
 import java.util.Scanner;
 
 public class GradeBook02Test

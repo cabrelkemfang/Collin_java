@@ -1,10 +1,7 @@
 // Fig. 4.10: GradeBook02Test.java
 // Create GradeBook02 object and invoke its determineClassAverage method.
 //
-// Java How to Program, 9th Ed. (Deitel) page 125
-//
-// Ray Santos
-// October 6, 2014
+// Java How to Program, 10th Ed. (Deitel) page 125
 
 public class GradeBook02Test
 {

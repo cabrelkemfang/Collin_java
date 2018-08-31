@@ -1,10 +1,8 @@
 // Fig. 8.2: Time1Test.java
 // Time1 object used in an application.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 315
-//
-// Ray Santos
-// November 10, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 315
+
 
 public class Time1Test
 {

@@ -1,10 +1,9 @@
 // Fig. 4.18: DrawPanel.java
 // Using drawLine to connect the corners of a panel.
 //
-// Java How To Program, 9th Ed. (Deitel) Page 135
+// Java How To Program, 10th Ed. (Deitel) Page 135
 //
-// Ray Santos
-// October 6, 2014
+/
 
 import java.awt.Graphics;
 import javax.swing.JPanel;

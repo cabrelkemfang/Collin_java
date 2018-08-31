@@ -1,10 +1,9 @@
 // Fig. 5.12: BreakTest.java
 // break statement exiting a for statement
 //
-// Java How to Program, 9th Ed. (Deitel) Page 172
+// Java How to Program, 10th Ed. (Deitel) Page 172
 //
-// Ray Santos
-// October 13, 2014
+
 
 public class BreakTest
 {

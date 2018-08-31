@@ -1,10 +1,8 @@
 // Fig. 7.12: EnhancedForTest.java
 // Using the enhanced for statement to total integers in an array.
 //
-// Java How to Program, 9th Ed. (Deitel) Page 259
-//
-// Ray Santos
-// November 3, 2014
+// Java How to Program, 10th Ed. (Deitel) Page 259
+
 
 public class EnhancedForTest
 {

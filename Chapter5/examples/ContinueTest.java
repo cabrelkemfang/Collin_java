@@ -1,10 +1,8 @@
 // Fig. 5.13: ContinueTest.java
 // continue statement terminating an iteration of a for statement
 //
-// Java How to Program, 9th Ed. (Deitel) Page 173
+// Java How to Program, 10th Ed. (Deitel) Page 173
 //
-// Ray Santos
-// October 13, 2014
 
 public class ContinueTest
 {
