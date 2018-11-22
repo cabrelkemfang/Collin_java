@@ -18,13 +18,13 @@ public class ReverseSentence {
 
         StringBuilder sentenceReversed = Sentence.reverse();
 
-        System.out.printf("\"%s\" Now Printed With Words Reversed Is \"%s\"\n", sentence, sentenceReversed );
+        System.out.printf("\n\"%s\" \n\nNow Printed With Words Reversed Is \n\"%s\"\n\n", sentence, sentenceReversed);
 
         String[] tokens = sentence.split(" ");
 
-        System.out.printf("\"%s\" Now Printed With Words Printed In Reverse Order Is \"", sentence );
+        System.out.printf("\n\"%s\" \n\nNow Printed With Words Printed In Reverse Order Is \n\n \"", sentence );
         for (int i = tokens.length-1 ; i >= 0; i-- )
             System.out.printf("%s ", tokens[i]);
-        System.out.printf("\"");
+        System.out.printf("\"\n");
     }
 }

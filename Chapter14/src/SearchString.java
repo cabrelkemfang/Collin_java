@@ -44,8 +44,9 @@ public class SearchString {
         {
             if (occurences[j] < 2)
                 System.out.printf("\n%c \t\t %d ", character[j], occurences[j]);
-            else
+            else {
                 System.out.printf("\n%c \t\t %d ", character[j], occurences[j]);
+            }
         }
     }
 }
