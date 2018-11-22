@@ -5,7 +5,7 @@
 
 import java.io.*;
 import java.util.Properties;
-import java.util.Set;
+import java.util.Set
 
 public class PropertiesTest {
 
