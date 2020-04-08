@@ -1,7 +1,8 @@
-/**
+ /**
  * Figure 16.3 : ListTest.java
  * Lists, LinkedLists and ListIterators.
  */
+ package Chapter16.src;
 
 import java.util.Arrays;
 import java.util.List;

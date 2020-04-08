@@ -1,7 +1,8 @@
 /**
- * Figure 16.2 : CollectionTest.java
- * Collection interface demonstrated via an ArrayList object
+  Figure 16.2 : CollectionTest.java
+  Collection interface demonstrated via an ArrayList object
  */
+package Chapter16.src;
 
 import java.util.List;
 import java.util.Collection;
