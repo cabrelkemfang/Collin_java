@@ -1,3 +1,5 @@
+package Chapter3.examples;
+
 // Fig. 3.7: GradeBook03.java
 // GradeBook03 class that contains a courseName instance variable
 // and methods to set and get its value

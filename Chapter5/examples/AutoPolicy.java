@@ -1,3 +1,5 @@
+package Chapter5.examples;
+
 // Fig. 5.11: AutoPolicy.java
 // Class that represents an auto insurance policy.
 public class AutoPolicy

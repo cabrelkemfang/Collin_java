@@ -1,3 +1,4 @@
+package Chapter5.exercises;
 // GlobalWarming.java
 
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+package Chapter5.examples;
 // Fig. 5.7: DoWhileTest.java
 // do...while repetition statement
 

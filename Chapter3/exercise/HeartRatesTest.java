@@ -1,3 +1,4 @@
+package Chapter3.exercise;
 // HeartRatesTest.java
 // Test Application for Target-Heart-Rate Calculator
 // Java How to Program, 9th Ed. (Deitel) Page 101

@@ -1,3 +1,4 @@
+package Chapter5.examples;
 // Fig. 5.13: ContinueTest.java
 // continue statement terminating an iteration of a for statement
 //

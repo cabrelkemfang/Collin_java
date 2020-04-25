@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.13: PassArray.java
 // Passing arrays and individual array elements to methods.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 260
 
 

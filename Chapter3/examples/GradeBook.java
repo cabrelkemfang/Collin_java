@@ -1,3 +1,4 @@
+package Chapter3.examples;
 // Fig. 3.1: GradeBook.java
 // Class declaration with one method
 // Page 73

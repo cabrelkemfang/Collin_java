@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.17: Init2dArray.java
 // Initialize two-dimentional arrays.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 270
 
 

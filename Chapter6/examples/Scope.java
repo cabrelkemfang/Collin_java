@@ -1,6 +1,6 @@
+package Chapter6.examples;
 // Fig. 6.9: Scope.java
 // Scope class demonstrates field and local variable scopes.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 220
 
 public class Scope

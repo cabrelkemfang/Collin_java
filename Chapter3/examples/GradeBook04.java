@@ -1,3 +1,4 @@
+package Chapter3.examples;
 // Fig. 3.10: GradeBook04.java
 // GradeBook04 class with a constructor to initialize the course name.
 // Page 85

@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.11: DeckOfCardsTest.java
 // Card shuffling and dealing.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 257
 
 public class DeckOfCardsTest

@@ -1,6 +1,6 @@
+package Chapter5.exercises;
 // Exercise 5.11: SmallestTest.java
 // Test application for class Smallest
-//
 // Java How to Program, 10th Ed. (Deitel) Page 193
 
 public class SmallestTest

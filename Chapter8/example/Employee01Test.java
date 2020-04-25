@@ -1,6 +1,6 @@
+package Chapter8.example;
 // Fig. 8.13: Employee01Test.java
 // static member demonstration
-//
 // Java How to Program, 10th Ed. (Deitel) Page 337
 
 

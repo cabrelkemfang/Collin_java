@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.5: SumArray.java
 // Computing the sum of the elements of an array.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 248
 
 

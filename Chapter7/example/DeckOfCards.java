@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.10: DeckOfCards.java
 // DeckOfCards class represents a deck of playing cards.
-//
 // Java How to Program, 10th Ed. (Deitel)
 
 

@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.20: VarargsTest.java
 // Using variable-length argument lists.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 278
 
 

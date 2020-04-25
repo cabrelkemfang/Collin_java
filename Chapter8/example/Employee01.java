@@ -1,7 +1,7 @@
+package Chapter8.example;
 // Fig. 8.12: Employee01.java
 // Static variable used to maintain a count of the number
 // of Employee objects in memory.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 336
 
 

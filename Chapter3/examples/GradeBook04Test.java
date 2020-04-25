@@ -1,3 +1,4 @@
+package Chapter3.examples;
 // Fig. 3.11: GradeBook04Test.java
 // GradeBook04 constructor used to specify the course name at the
 // time each GradeBook04 object is created.

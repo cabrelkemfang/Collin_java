@@ -1,3 +1,4 @@
+package Chapter7.example;
 // Fig. 7.14: GradeBook.java
 // GradeBook class using an array to store test grades
 //
@@ -115,5 +116,5 @@ public class GradeBook
       for ( int student = 0; student < grades.length; student++ )
          System.out.printf( "Student %2d: %3d\n",
             student + 1, grades[ student ] );
-   }   
+   }
 }

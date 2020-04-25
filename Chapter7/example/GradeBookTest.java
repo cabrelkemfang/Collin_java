@@ -1,7 +1,7 @@
+package Chapter7.example;
 // Fig. 7.15: GradeBookTest.java
 // GradeBookTest creates a GradeBook object using an array of grades,
 // then invokes method processGrades to analyze them.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 267
 
 

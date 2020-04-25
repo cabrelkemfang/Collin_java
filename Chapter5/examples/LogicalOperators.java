@@ -1,6 +1,6 @@
+package Chapter5.examples;
 // Fig. 5.18: LogicalOperators.java
 // Logical operators.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 177
 
 public class LogicalOperators

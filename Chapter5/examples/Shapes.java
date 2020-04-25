@@ -1,6 +1,6 @@
+package Chapter5.examples;
 // Fig. 5.26: Shapes.java
 // Demonstrates drawing different shapes.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 184
 
 import java.awt.Graphics;

@@ -1,4 +1,4 @@
-// Facebook.java
+package Chapter5.exercises;// Facebook.java
 
 public class Facebook
 {

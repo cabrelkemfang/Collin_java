@@ -1,3 +1,5 @@
+package Chapter5.examples;
+
 // Fig. 5.12: AutoPolicyTest.java
 // Demonstrating Strings in switch.
 public class AutoPolicyTest

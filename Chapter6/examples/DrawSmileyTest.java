@@ -1,6 +1,6 @@
+package Chapter6.examples;
 // Fig. 6.12: DrawSmileyTest.java
 // Test application that displays a smiley face.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 226
 
 import javax.swing.JFrame;

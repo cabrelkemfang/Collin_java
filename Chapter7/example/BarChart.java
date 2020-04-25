@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.6: BarChart.java
 // Bar chart printing program.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 249
 
 public class BarChart

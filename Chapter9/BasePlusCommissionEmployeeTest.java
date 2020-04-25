@@ -1,3 +1,5 @@
+package Chapter9;
+
 /**
  * Exercise 9.14
  */
@@ -9,13 +11,9 @@ public class BasePlusCommissionEmployeeTest {
         BasePlusCommissionEmployee base_comm_employee = new BasePlusCommissionEmployee("Chamaya", "Jude", "222-222-222", 10000, 0.06, 500 );
 
         //get basepluscommission employment data
-        System.out.println("Employee Information Obtained Through Getters");
-
-        System.out.printf("%s %s%n", "First Name Is", base_comm_employee.getFirstName() );
-        System.out.printf("%s %s%n", "Last Name Is", base_comm_employee.getLastName() );
-        System.out.printf("%s %s%n", "Social Security Number Is", base_comm_employee.getSocialSecurityNumber());
-        System.out.printf("%s %.2f%n", "Gross Sales Is", base_comm_employee.getGrossSales() );
-        System.out.printf("%s %.2f%n", "Commission Rate Is", base_comm_employee.getCommissionRate() );
+        basePlusCommision(base_comm_employee.getFirstName(), base_comm_employee.getLastName(),
+                base_comm_employee.getSocialSecurityNumber(), base_comm_employee.getGrossSales(),
+                base_comm_employee.getCommissionRate(), base_comm_employee);
         System.out.printf("%s %.2f%n", "Base Salary Is", base_comm_employee.getBaseSalary() );
 
         System.out.printf("\n%s: %s\n", "Same Employee Information Obtained By toString", base_comm_employee.toString() );
@@ -25,5 +23,16 @@ public class BasePlusCommissionEmployeeTest {
         base_comm_employee.setBaseSalary(600);
 
         System.out.printf("\n%s: %s\n", "Updated Employee Information Obtained By toString", base_comm_employee.toString() );
+    }
+
+    static void basePlusCommision(String firstName, String lastName, String socialSecurityNumber, double grossSales,
+            double commissionRate, BasePlusCommissionEmployee base_comm_employee) {
+        System.out.println("Employee Information Obtained Through Getters");
+
+        System.out.printf("%s %s%n", "First Name Is", firstName);
+        System.out.printf("%s %s%n", "Last Name Is", lastName);
+        System.out.printf("%s %s%n", "Social Security Number Is", socialSecurityNumber);
+        System.out.printf("%s %.2f%n", "Gross Sales Is", grossSales);
+        System.out.printf("%s %.2f%n", "Commission Rate Is", commissionRate);
     }
 }

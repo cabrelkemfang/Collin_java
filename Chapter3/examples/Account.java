@@ -1,4 +1,4 @@
-// Fig. 3.13: Account.java
+package Chapter3.examples;// Fig. 3.13: Account.java
 // Account class with a constructor to validate and initialize
 // instance variable balance of type double.
 // Java How to Program, 10th Ed. (Deitel) Page 89

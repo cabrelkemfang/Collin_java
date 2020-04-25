@@ -1,4 +1,4 @@
-/*
+package Chapter11.src.Exercises.ExceptionA;/*
  * ExceptionA.java : Custom-created Exception class
  */
 

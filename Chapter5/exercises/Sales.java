@@ -1,3 +1,4 @@
+package Chapter5.exercises;
 // Sales.java
 // Program Calculates Smallest
 

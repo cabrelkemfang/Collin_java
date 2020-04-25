@@ -1,4 +1,4 @@
-/*
+package Chapter11.src.UsingExceptions;/*
  * Figure 11.5 : UsingExceptions.java
  * Demonstrates the try...catch...finally exception handling mechanism
  */

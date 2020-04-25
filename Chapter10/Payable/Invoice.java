@@ -1,4 +1,4 @@
-/*
+package Chapter10.Payable;/*
  * Figure 10.12 :  Invoice.java
  * Class Invoice implements Payable interface
  */

@@ -1,3 +1,4 @@
+package Chapter3.examples;
 // Fig. 3.4: GradeBook02.java
 // Class declaration with one method that has a parameter
 // Page 77

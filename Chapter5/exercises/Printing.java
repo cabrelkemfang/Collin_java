@@ -1,6 +1,6 @@
+package Chapter5.exercises;
 // Exercise 5.10: Printing.java
 // What does the following program do?
-//
 // Java How to Program, 10th Ed. (Deitel) Page 193
 
 

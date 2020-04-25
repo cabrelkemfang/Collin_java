@@ -1,4 +1,4 @@
-// Fig. 3.14: AccountTest.java
+package Chapter3.examples;// Fig. 3.14: AccountTest.java
 // Inputting and outputting floating-point numbers with Account objects.
 // Java How to Program, 10th Ed. (Deitel) Page 90
 //

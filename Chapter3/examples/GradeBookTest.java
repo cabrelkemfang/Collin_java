@@ -1,3 +1,5 @@
+package Chapter3.examples;
+
 // Fig. 3.2: GradeBookTest.java
 // Creating a GradeBook object and calling its displayMessage method.
 // Page 74

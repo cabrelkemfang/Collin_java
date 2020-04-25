@@ -1,3 +1,4 @@
+package Chapter7.example;
 // Fig. 7.2: InitArray.java
 // Initializing the elements of an array to default values of zero.
 //

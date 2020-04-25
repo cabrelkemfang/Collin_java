@@ -1,3 +1,4 @@
+package Chapter7.example;
 // Fig. 7.21: InitArrayCommand.java
 // Initializing an array using command-line arguments.
 //

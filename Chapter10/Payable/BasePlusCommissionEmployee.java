@@ -1,8 +1,13 @@
+package Chapter10.Payable;
 /*
  * Example 10.8 : BasePlusCommissionEmployee.java BasePlusCommissionEmployee class is-a CommissionEmployee class
  */
 
- public class BasePlusCommissionEmployee extends CommissionEmployee
+import Chapter9.CommissionEmployee;
+
+import java.util.Date;
+
+public class BasePlusCommissionEmployee extends CommissionEmployee
  {
      private double baseSalary;
 
@@ -15,6 +20,7 @@
 
          this.baseSalary = baseSalary;
      }
+
 
      public double getBaseSalary() {
          return baseSalary;

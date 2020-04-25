@@ -1,3 +1,4 @@
+package Chapter5.examples;
 // Fig. 5.9: GradeBook.java
 // GradeBook class uses switch statement to count letter grades.
 //

@@ -1,4 +1,4 @@
-import static java.lang.StrictMath.sqrt;
+package Chapter9.src;
 
 /**
  * Created by isaackamga on 29/11/2017.

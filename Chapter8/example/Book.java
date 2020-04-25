@@ -1,7 +1,7 @@
+package Chapter8.example;
 // Fig. 8.10: Book.java
 // Declaring an enum type with constructor and explicit instance fields
 // and accessors for these fields
-//
 // Java How to Program, 10th Ed. (Deitel) Page 331
 
 

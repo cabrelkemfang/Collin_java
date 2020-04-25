@@ -1,4 +1,4 @@
-/*
+package Chapter10.Payable;/*
  * Example 10.4 : Abstract Class Employee
  */
 
