@@ -1,4 +1,3 @@
-
 // Fig. 4.5: StudentTest.java
 // Create and test Student objects.
 public class StudentTest

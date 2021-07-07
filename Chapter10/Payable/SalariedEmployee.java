@@ -1,8 +1,9 @@
+package Chapter10.Payable;
 /*
  * Example 10.5 : SalariedEmployee Class is-a Employee
  */
 
- public class SalariedEmployee extends Employee
+public class SalariedEmployee extends Employee
  {
      private double weeklySalary;
 
@@ -40,5 +41,10 @@
      public String toString()
      {
          return String.format("%sWeekly Salary :%.2f", super.toString(), getWeeklySalary());
+     }
+
+     @Override
+     public double earnings() {
+         return 0;
      }
  }

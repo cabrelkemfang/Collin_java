@@ -1,3 +1,4 @@
+package Chapter5.exercises;
 // Interest.java
 // Compound Interest Calculations With For Loops
 // Exercise 5.14 And 5.18 Solved Here

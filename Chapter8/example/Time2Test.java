@@ -1,6 +1,6 @@
+package Chapter8.example;
 // Fig. 8.6: Time2Test.java
 // Overloaded constructors used to initialize Time2 objects.
-//
 // Java How to Program, 10th Ed. (Deitel) Pagel 324
 
 

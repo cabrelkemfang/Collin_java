@@ -1,3 +1,4 @@
+package Chapter8.example;
 // Fig. 8.1: Time1.java
 // Time1 class declaration maintains the time in 24-hour format.
 //
@@ -6,9 +7,9 @@
 
 public class Time1
 {
-   private int hour;
-   private int minute;
-   private int second;
+   public int hour;
+   public int minute;
+   public int second;
 
    public void setTime( int h, int m, int s )
    {

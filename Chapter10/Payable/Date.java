@@ -1,9 +1,9 @@
+package Chapter10.Payable;
 /* Date.java
  * Exercise 10.12 Payroll System Modification
  */
 
-public class Date
-{
+public class Date {
   private int month; // 1 - 12
   private int day; // 1 - 31 based on month
   private int year; // any year

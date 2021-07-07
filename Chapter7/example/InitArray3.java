@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.4: InitArray3.java
 // Calculate the values to be placed into the elements of an array.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 246
 
 

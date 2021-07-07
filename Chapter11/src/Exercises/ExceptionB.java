@@ -1,7 +1,10 @@
-/*
+package Chapter11.src.Exercises;/*
  * ExceptionB.java : Custom-created Exception class is-a ExceptionA subclass
  */
 
+/**
+ *
+ */
 public class ExceptionB extends ExceptionA
 {
     private String bMessage; // message specific to ExceptionA object

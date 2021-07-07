@@ -1,6 +1,8 @@
-/*
+package Chapter11.src.Exercises.ExceptionB;/*
  * ExceptionB.java : Custom-created Exception class is-a ExceptionA subclass
  */
+
+import Chapter11.src.Exercises.ExceptionA;
 
 public class ExceptionB extends ExceptionA
 {

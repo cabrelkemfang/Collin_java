@@ -1,3 +1,4 @@
+package Chapter9;
 /*
  * Fig 9.8 : BasePlusCommissionEmployeeComposition.java
  * Implementing BasePlusCommissionEmployee - CommissionEmployee as a has-a relationship
@@ -12,7 +13,7 @@ public class BasePlusCommissionEmployeeComposition
     public BasePlusCommissionEmployeeComposition(String firstName, String lastName, String socialSecurityNumber, double grossSales,
                                                  double commissionRate, double baseSalary)
     {
-        this.theCommissionEmployee = new CommissionEmployee(firstName, lastName, socialSecurityNumber, grossSales, commissionRate);
+        this.theCommissionEmployee = new CommissionEmployee(firstName, lastName, socialSecurityNumber, birthDate, grossSales, commissionRate);
         setBaseSalary( baseSalary );
     }
 

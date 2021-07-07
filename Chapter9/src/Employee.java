@@ -1,7 +1,11 @@
+package Chapter9.src;
+
+import Chapter8.example.Date;
+
 /**
  * Exercise 9.14
  */
-public class Employee {
+public abstract class Employee {
     private String firstName;
     private String lastName;
     private String socialSecurityNumber;
@@ -19,6 +23,9 @@ public class Employee {
         this.socialSecurityNumber = socialSecurityNumber;
     }
 
+    public Employee(String firstName, String lastName, String ssn, Date birthDate) {
+    }
+
     public String getFirstName() {
         return firstName;
     }
@@ -31,6 +38,8 @@ public class Employee {
         return socialSecurityNumber;
     }
 
+    public abstract double getPaymentAmount();
+
     public String toString() {
         return "Employee { " +
                 "firstName='" + firstName +
@@ -38,4 +47,6 @@ public class Employee {
                 ", socialSecurityNumber='" + socialSecurityNumber +
                 " }";
     }
+
+    public abstract double earnings();
 }

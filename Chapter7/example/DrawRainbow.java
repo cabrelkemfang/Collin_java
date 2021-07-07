@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.25: DrawRainbow.java
 // Demonstrates using colors in an array.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 287
 
 

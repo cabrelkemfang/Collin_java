@@ -1,3 +1,4 @@
+package Chapter5.examples;
 // Fig. 5.12: BreakTest.java
 // break statement exiting a for statement
 //

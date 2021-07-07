@@ -1,4 +1,4 @@
-/*
+package Chapter11.src.Exercises.ExceptionA;/*
  * ExceptionB.java : Custom-created Exception class is-a ExceptionA subclass
  */
 

@@ -1,3 +1,4 @@
+package Chapter10.Payable;
 /*
  * Example 10.6 : HourlyEmployee.java is-a Employee
  */
@@ -64,5 +65,10 @@
      public String toString()
      {
          return String.format("%s, Hourly Wage :%.2f, Hours Worked :%.2f", super.toString(), getHourlyWage(), getHoursWorked() );
+     }
+
+     @Override
+     public double earnings() {
+         return 0;
      }
  }

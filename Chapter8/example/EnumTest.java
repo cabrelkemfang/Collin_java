@@ -1,3 +1,4 @@
+package Chapter8.example;
 // Fig. 8.11: EnumTest.java
 // Testing enum type Book.
 //

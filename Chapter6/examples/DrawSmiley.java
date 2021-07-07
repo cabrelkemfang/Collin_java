@@ -1,6 +1,6 @@
+package Chapter6.examples;
 // Fig. 6.11: DrawSmiley.java
 // Demonstrates filled shapes.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 225
 
 import java.awt.Color;

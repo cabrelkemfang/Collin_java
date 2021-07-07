@@ -1,3 +1,4 @@
+package Chapter5.examples;
 // Fig. 5.10: GradeBookTest.java
 // Create GradeBook object, input grades and display grade report
 //

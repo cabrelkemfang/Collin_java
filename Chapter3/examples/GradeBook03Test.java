@@ -1,3 +1,4 @@
+package Chapter3.examples;
 // Fig. 3.8: GradeBook03Test.java
 // Creating and manipulating a GradeBook03 object.
 // Page 82 

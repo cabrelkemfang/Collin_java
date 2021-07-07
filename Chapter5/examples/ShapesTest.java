@@ -1,3 +1,4 @@
+package Chapter5.examples;
 // Fig. 5.27: ShapesTest.java
 // Test application that deploys class Shapes
 //

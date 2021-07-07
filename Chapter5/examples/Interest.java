@@ -1,15 +1,23 @@
+package Chapter5.examples;
 // Fig. 5.6: Interest.java
 // Compound-interest calculations with for.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 159
+
+import java.util.Scanner;
 
 public class Interest 
 {
    public static void main( String[] args )
    {
+      Scanner input = new Scanner(System.in);
+
       double amount;
-      double principal = 1000.0; // initial amount before interest
-      double rate = 0.05;
+      double principal; // initial amount before interest
+      double rate = 0;
+
+      System.out.println("Enter the princical value");
+      principal = input.nextDouble();
+
 
       System.out.printf( "%s%20s\n", "Year", "Amount on deposit" );
 

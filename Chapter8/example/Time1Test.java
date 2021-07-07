@@ -1,6 +1,6 @@
+package Chapter8.example;
 // Fig. 8.2: Time1Test.java
 // Time1 object used in an application.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 315
 
 

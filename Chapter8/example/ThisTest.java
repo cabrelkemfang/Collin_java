@@ -1,6 +1,6 @@
+package Chapter8.example;
 // Fig. 8.4: ThisTest.java
 // this used implicity and explicitly to refer to members of an object.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 318
 
 

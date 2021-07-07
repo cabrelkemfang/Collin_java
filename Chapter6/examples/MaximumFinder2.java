@@ -1,7 +1,7 @@
+package Chapter6.examples;
 // MaximumFinder2.java
 // Programmer-declared method maximum with three double parameters
 // using the Math.max() method.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 204
 
 import java.util.Scanner;

@@ -1,8 +1,9 @@
+package Chapter10.Payable;
 /*
  * PayableInterfaceTest.java
  * Payable interface test program processing Invoices and Employees porlymorphically
  */
-
+import Chapter10.Payable.CommissionEmployee;
  public class PayableInterfaceTest
  {
      public static void main(String[] args)
@@ -15,8 +16,8 @@
          payableObjects[1] = new Invoice("56789", "tire", 4, 79.95);
          payableObjects[2] = new SalariedEmployee("John", "Smith", "111-11-1111", firstDate, 800.00 );
          payableObjects[3] = new HourlyEmployee("Lisa", "Barnes", "222-22-2222", secondDate, 12.00, 96.00);
-         payableObjects[4] = new CommissionEmployee("Cardinal", "Cody", "333-33-3333", new Date(1,3,1997), 8000.00, 0.06 );
-         payableObjects[5] = new BasePlusCommissionEmployee("Blender", "Barnes", "444-44-4444", new Date(11,3,1986), 10000.00, 0.06, 120.00);
+         payableObjects[4] = (Payable) new CommissionEmployee("Cardinal", "Cody", "333-33-3333", new Date(1,3,1997), 8000.00, 0.06 );
+//         payableObjects[5] = new BasePlusCommissionEmployee("Blender", "Barnes", "444-44-4444", new Date(11,3,1986), 10000.00, 0.06, 120.00);
 
          System.out.println("Invoices and Employees processed polymorphically:\n");
 

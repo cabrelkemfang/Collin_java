@@ -1,6 +1,6 @@
+package Chapter6.examples;
 // Fig. 6.10: MethodOverload.java
 // Overloaded method declarations
-//
 // Java How to Program, 10th Ed. (Deitel) Page 222
 
 

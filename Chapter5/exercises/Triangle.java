@@ -1,3 +1,4 @@
+package Chapter5.exercises;
 // Triangle.java
 // Exercise 5.15 And 5.22
 

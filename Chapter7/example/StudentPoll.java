@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.8: StudentPoll.java
 // Poll analysis program.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 251
 
 

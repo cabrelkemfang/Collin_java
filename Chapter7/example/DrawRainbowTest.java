@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.26: DrawRainbowTest.java
 // Test application to display a rainbow.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 288
 
 

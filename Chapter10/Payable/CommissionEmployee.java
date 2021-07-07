@@ -1,8 +1,12 @@
+package Chapter10.Payable;
 /*
  * Example 10.7 : CommissionEmployee Class is-a Employee Class
  */
 
- public class CommissionEmployee extends Employee
+import Chapter8.example.Date;
+import Chapter9.src.Employee;
+
+public class CommissionEmployee extends Employee
  {
      private double grossSales;
      private double commissionRate;
@@ -19,6 +23,9 @@
              throw new IllegalArgumentException("Commission Rate Must Be In [0,1]");
 
          this.commissionRate = commissionRate;
+     }
+
+     public CommissionEmployee(String cardinal, String cody, String ssn, Chapter10.Payable.Date date, double grossSales, double commissionRate) {
      }
 
      public double getGrossSales() {
@@ -55,5 +62,10 @@
      public String toString()
      {
          return String.format("%s, Gross Sales :%.2f, Commission Rate :%.2f", super.toString(), getGrossSales(), getCommissionRate());
+     }
+
+     @Override
+     public double earnings() {
+         return 0;
      }
  }

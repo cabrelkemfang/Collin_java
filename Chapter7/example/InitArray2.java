@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.3: InitArray2.java
 // Initializing the elements of an array with an array initializer.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 246
 
 

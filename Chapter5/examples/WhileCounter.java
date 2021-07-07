@@ -1,6 +1,6 @@
+package Chapter5.examples;
 // Fig. 5.1: WhileCounter.java
 // Counter-controlled repetition with the while repetition statement.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 152
 
 public class WhileCounter

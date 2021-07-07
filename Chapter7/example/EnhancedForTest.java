@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.12: EnhancedForTest.java
 // Using the enhanced for statement to total integers in an array.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 259
 
 

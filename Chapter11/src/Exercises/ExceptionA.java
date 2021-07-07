@@ -1,9 +1,9 @@
+package Chapter11.src.Exercises;
 /*
  * ExceptionA.java : Custom-created Exception class
  */
 
- public class ExceptionA extends Exception
- {
+ public class ExceptionA extends Exception {
      private String aMessage; // message specific to ExceptionA object
 
      public ExceptionA()

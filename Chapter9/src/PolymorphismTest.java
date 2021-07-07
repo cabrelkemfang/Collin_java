@@ -1,6 +1,10 @@
+package Chapter9.src;
 /*
  * Figure 10.1
  */
+
+import Chapter9.BasePlusCommissionEmployee;
+import Chapter9.CommissionEmployee;
 
 public class PolymorphismTest
 {
@@ -9,7 +13,7 @@ public class PolymorphismTest
     {
         // Assign superclass reference to superclass variable
         CommissionEmployee commissionEmployee
-                = new CommissionEmployee("Suh", "Joseph", "123-456-789", 10000, 0.06);
+                = new CommissionEmployee("Suh", "Joseph", "123-456-789", birthDate, 10000, 0.06);
 
         // Assign subclass reference to subclass variable
         BasePlusCommissionEmployee basePlusCommissionEmployee

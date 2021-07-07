@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.22: ArrayManipulations.java
 // Arrays class methods and System.arraycopy
-//
 // Java How to Program, 10th Ed. (Deitel) Page 281
 
 

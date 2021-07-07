@@ -1,7 +1,7 @@
+package Chapter7.example;
 // Fig. 7.19: GradeBook2dArrayTest.java
 // GradeBook2dArrayTest creates GradeBook2dArray object using a two-dimensional
 // array of grades, then invokes method processGrades to analyze them.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 276
 
 

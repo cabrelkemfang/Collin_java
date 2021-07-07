@@ -1,6 +1,6 @@
+package Chapter7.example;
 // Fig. 7.18: GradeBook2dArray.java
 // GradeBook2dArray class using a two-dimensional array to store grades.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 272
 
 public class GradeBook2dArray

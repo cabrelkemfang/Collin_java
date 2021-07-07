@@ -1,6 +1,6 @@
+package Chapter8.example;
 // Fig. 8.9: EmployeeTest.java
 // Composition demonstration
-//
 // Java How to Program, 10th Ed. (Deitel) Page 330
 
 

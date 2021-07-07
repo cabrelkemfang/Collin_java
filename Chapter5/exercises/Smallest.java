@@ -1,10 +1,9 @@
+package Chapter5.exercises;
 // Exercise 5.11: Smallest.java
 // Find the smallest value
-//
 // Write an application that finds the smallest of several integers.
 // Assume that the first value read specifies the number of values
 // to input from the user.
-//
 // Java How to Program, 10th Ed. (Deitel) Page 193
 
 import java.util.Scanner;

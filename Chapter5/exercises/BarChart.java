@@ -1,4 +1,4 @@
-// BarChart.java
+package Chapter5.exercises;// BarChart.java
 
 import java.util.Scanner;
 

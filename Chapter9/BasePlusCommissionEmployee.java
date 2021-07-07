@@ -1,3 +1,5 @@
+package Chapter9;
+
 /**
  * Exercise 9.15
  */
@@ -7,7 +9,7 @@ public class BasePlusCommissionEmployee extends CommissionEmployee {
 
     public BasePlusCommissionEmployee(String firstName, String lastName, String socialSecurityNumber, double grossSales, double commmissionRate, double baseSalary )
     {
-        super(firstName, lastName, socialSecurityNumber, grossSales, commmissionRate);
+        super(firstName, lastName, socialSecurityNumber, birthDate, grossSales, commmissionRate);
         setBaseSalary( baseSalary);
     }
 

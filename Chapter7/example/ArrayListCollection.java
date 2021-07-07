@@ -1,4 +1,4 @@
-// Fig. 7.24: ArrayListCollection.java
+// Fig. 7.24: ArrayCollection.java
 // Generaic ArrayList<T> collection demonstration.
 //
 // Java How to Program, 10th Ed. (Deitel) Page 285

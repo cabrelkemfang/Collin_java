@@ -1,4 +1,4 @@
-// Fig. 7.9: Card.java
+package Chapter7.example;// Fig. 7.9: Card.java
 // Card class represents a playing card.
 //
 // Java How to Program, 10th Ed. (Deitel) Page 254

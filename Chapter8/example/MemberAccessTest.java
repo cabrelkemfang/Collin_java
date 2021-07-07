@@ -1,3 +1,4 @@
+package Chapter8.example;
 // Fig. 8.3: MemberAccessTest.java
 // Private members of class Time1 are not accessible.
 //

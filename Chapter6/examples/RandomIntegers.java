@@ -1,6 +1,6 @@
+package Chapter6.examples;
 // Fig. 6.6: RandomIntegers.java
 // Shifted and scaled random integers
-//
 // Java How to Program, 10th Ed. (Deitel) Page 211
 
 import java.util.Random;
